@@ -1,1 +1,0 @@
-C:\procon_csharp\procon_csharp\procon\procon\bin\Debug\procon.exe.config
